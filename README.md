@@ -1,4 +1,4 @@
-# 🧩 App Feedback & FAQ Management System – C++ OOP
+# 🧩 App Store based System – C++ OOP
 
 This codebase is a **C++ Object-Oriented Programming** mini–project built for the **Object Oriented Concepts (IT1050)** module at **SLIIT (Year 1, Semester 2)**.  
 It models a small platform where users interact with an app, leave feedback, reviews and inquiries, while employees (admin/developer) manage content and FAQs.
